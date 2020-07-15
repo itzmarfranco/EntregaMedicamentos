@@ -1,0 +1,10 @@
+c:\users\kairi\documents\visual studio 2013\Projects\medicamentos\medicamentos\bin\Debug\medicamentos.exe.config
+c:\users\kairi\documents\visual studio 2013\Projects\medicamentos\medicamentos\bin\Debug\medicamentos.exe
+c:\users\kairi\documents\visual studio 2013\Projects\medicamentos\medicamentos\bin\Debug\medicamentos.pdb
+c:\users\kairi\documents\visual studio 2013\Projects\medicamentos\medicamentos\obj\Debug\medicamentos.csprojResolveAssemblyReference.cache
+c:\users\kairi\documents\visual studio 2013\Projects\medicamentos\medicamentos\obj\Debug\medicamentos.wndLogin.resources
+c:\users\kairi\documents\visual studio 2013\Projects\medicamentos\medicamentos\obj\Debug\medicamentos.Properties.Resources.resources
+c:\users\kairi\documents\visual studio 2013\Projects\medicamentos\medicamentos\obj\Debug\medicamentos.csproj.GenerateResource.Cache
+c:\users\kairi\documents\visual studio 2013\Projects\medicamentos\medicamentos\obj\Debug\medicamentos.exe
+c:\users\kairi\documents\visual studio 2013\Projects\medicamentos\medicamentos\obj\Debug\medicamentos.pdb
+c:\users\kairi\documents\visual studio 2013\Projects\medicamentos\medicamentos\obj\Debug\medicamentos.mainframe.resources
